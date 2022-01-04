@@ -10,7 +10,6 @@
                 "src/init.cc",
                 "src/version.cc",
                 "src/convert.cc",
-                "src/convert_argb.cc",
                 "src/scale.cc",
                 "src/scale_argb.cc",
                 "src/cpu_id.cc",

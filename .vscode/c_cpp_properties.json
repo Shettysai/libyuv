@@ -11,7 +11,8 @@
                 "${workspaceFolder}/external/libyuv/include",
                 "${workspaceFolder}/node_modules/node-addon-api",
                 "${env:USERPROFILE}/AppData/Local/node-gyp/Cache/10.15.3/include/node",
-                "${env:USERPROFILE}/AppData/Local/node-gyp/Cache/12.16.1/include/node"
+                "${env:USERPROFILE}/AppData/Local/node-gyp/Cache/12.16.1/include/node",
+                "/usr/include/nodejs/src"
             ],
             "defines": [
                 "_DEBUG",
@@ -26,4 +27,4 @@
         }
     ],
     "version": 4
-    }
+}
